@@ -1,0 +1,13 @@
+[run]
+branch = True
+omit = */tests/*,
+        *__init__.py,
+        migrations/*
+
+
+
+[report]
+    omit = */tests/*,
+        *__init__.py,
+        migrations/*
+
